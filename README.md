@@ -24,7 +24,6 @@ The SQL script (`data_exploration.sql`) includes queries for:
 The Jupyter Notebook (`orders_data_analysis.ipynb`) demonstrates how to:
 - Load and preprocess the data.
 - Perform exploratory data analysis (EDA) using Python.
-- Visualize insights using libraries like Matplotlib and Seaborn.
 
 
 ## Usage
