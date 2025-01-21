@@ -32,3 +32,4 @@ To replicate this analysis:
 1. Open the Jupyter Notebook and run the analysis:
    jupyter notebook notebooks/orders_data_analysis.ipynb
 
+2. Execute the SQL queries using your preferred SQL engine.
